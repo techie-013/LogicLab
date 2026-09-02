@@ -7,7 +7,6 @@ public:
         int a,b;
         
         int expsum=0 , actualsum=0;
-
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 actualsum+=grid[i][j];
