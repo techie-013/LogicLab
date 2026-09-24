@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/techie-013/LogicLab/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/techie-013/LogicLab/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/techie-013/LogicLab/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/techie-013/LogicLab/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/techie-013/LogicLab/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/techie-013/LogicLab/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/techie-013/LogicLab/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/techie-013/LogicLab/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
