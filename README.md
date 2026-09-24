@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/techie-013/LogicLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/techie-013/LogicLab/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/techie-013/LogicLab/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/techie-013/LogicLab/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/techie-013/LogicLab/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techie-013/LogicLab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/techie-013/LogicLab/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/techie-013/LogicLab/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/techie-013/LogicLab/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/techie-013/LogicLab/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/techie-013/LogicLab/tree/master/0066-plus-one) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
