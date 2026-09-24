@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/techie-013/LogicLab/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/techie-013/LogicLab/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/techie-013/LogicLab/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/techie-013/LogicLab/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
