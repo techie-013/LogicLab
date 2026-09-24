@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/techie-013/LogicLab/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/techie-013/LogicLab/tree/master/0013-roman-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/techie-013/LogicLab/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/techie-013/LogicLab/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/techie-013/LogicLab/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/techie-013/LogicLab/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/techie-013/LogicLab/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
