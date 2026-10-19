@@ -1,18 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0) {
+        int original_number=x;
+        int last_digit=0;
+        long long new_number=0;
+        if(x<0){
             return false;
         }
-        int original =x;
-        long long reverse = 0;
-        
-        while(x>0){
-            int digit= x%10;
-            reverse= reverse*10 + digit;
+        for(;x>0;){
+            last_digit=x%10;
+            new_number=new_number*10+last_digit;
             x=x/10;
         }
-        return original==reverse;
-        
+        if(new_number==original_number){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
