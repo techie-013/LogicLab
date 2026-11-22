@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/techie-013/LogicLab/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techie-013/LogicLab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/techie-013/LogicLab/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/techie-013/LogicLab/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/techie-013/LogicLab/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/techie-013/LogicLab/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/techie-013/LogicLab/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/techie-013/LogicLab/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/techie-013/LogicLab/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/techie-013/LogicLab/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
