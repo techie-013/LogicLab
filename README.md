@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/techie-013/LogicLab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/techie-013/LogicLab/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/techie-013/LogicLab/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/techie-013/LogicLab/tree/master/0238-product-of-array-except-self) |
 | [2965-find-missing-and-repeated-values](https://github.com/techie-013/LogicLab/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/techie-013/LogicLab/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/techie-013/LogicLab/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
